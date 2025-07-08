@@ -20,11 +20,21 @@
     </item>
     
     <item>
-      <title>Post</title>
-      <link>https://wei-ziqian.github.io/zh-cn/categories/post/</link>
+      <title>Pub</title>
+      <link>https://wei-ziqian.github.io/zh-cn/categories/pub/</link>
       <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://wei-ziqian.github.io/zh-cn/categories/post/</guid>
+      <guid>https://wei-ziqian.github.io/zh-cn/categories/pub/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Cv</title>
+      <link>https://wei-ziqian.github.io/zh-cn/categories/cv/</link>
+      <pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://wei-ziqian.github.io/zh-cn/categories/cv/</guid>
       <description></description>
       
     </item>
